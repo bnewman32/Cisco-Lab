@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-Project consists of creataing a temporary Mockup of a startup work network.
+Project consists of creating a temporary Mockup of a startup work network.
 <br />
 
 
